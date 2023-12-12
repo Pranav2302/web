@@ -36,19 +36,24 @@ a {
 /* Navigation */
 nav {
   list-style: none;
-  padding: 0;
   margin: 0;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 nav li {
   display: inline-block;
   margin-right: 1em;
+  padding-left: 115px;
+  padding-right: 15px;
 }
 
 nav li a {
   padding: 0.5em 1em;
   border-radius: 5px;
   color: #000;
+  padding-left: 25px;
+  padding-right: 15px;
 }
 
 nav li a:hover {
