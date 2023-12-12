@@ -37,23 +37,20 @@ a {
 nav {
   list-style: none;
   margin: 0;
-  padding-left: 15px;
-  padding-right: 15px;
+ 
 }
 
 nav li {
   display: inline-block;
   margin-right: 1em;
-  padding-left: 15px;
-  padding-right: 115px;
+  
 }
 
 nav li a {
   padding: 0.5em 1em;
   border-radius: 5px;
   color: #000;
-  padding-left: 25px;
-  padding-right: 115px;
+  
 }
 
 nav li a:hover {
